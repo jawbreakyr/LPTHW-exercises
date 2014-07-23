@@ -1,0 +1,5 @@
+print "Woke up in the morning feeling lucky, as what your daily horoscope tells you. As you want to  test your luck"
+print "you then decided to go to a poker house. On your way as you were driving, all of a sudden one of your tires" 
+print "got flat. Mumbling about the situation you're at, you decided to take a walk as it was just a block away. When"
+print "you arrived at the place everyone was yelling at someone. And Son Goku was also there who hated you so much."
+print "Started to kick your ass giving you a full 99 hits combo then blasted you with his ultimate Ha Me Ka Me wave."
